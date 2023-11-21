@@ -122,7 +122,7 @@ $ zphisher
 - Temporary Container
 
   ```
-  docker run --rm -ti htrtech/zphisher
+  docker run --rm -ti KHRgit/zphisher
   ```
   - Remember to mount the `auth` directory.
 
