@@ -1,4 +1,4 @@
-<!-- Zphisher khr -->
+<!-- Zphisher KHR -->
 
 <p align="center">
   <img src=".github/misc/logo.png">
